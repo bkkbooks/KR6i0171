@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0171_000.yaml, hash: 'sha256:9a7b9daef3cf2e812efd5d5fba4231cf6f24f6b040b6dc48965d0f6a2793b261'}
-  - {seq: 1, filename: KR6i0171_001.yaml, hash: 'sha256:fb8072f2342a5b399186bd8750b945dd48eadce4057083adda0c7a1f4e184392'}
+  - {seq: 1, filename: KR6i0171_001.yaml, hash: 'sha256:22a0f555cb30f0734bcfcbbf0d92bd1c0536c8844d1bd547b006b0fb2f5889ac'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0171_001.markers.yaml, hash: 'sha256:051a769ade6349df4ccaf1a1e89294eb789f1b502cd77971f7995e1fb72c2ac2'}
+  - {seq: 0, role: markers, filename: assets/KR6i0171_000.markers.yaml, hash: 'sha256:6d874c432be90d545309bb3d490302b7b77113895948f967ba09041dfef669bd'}
+  - {seq: 1, role: markers, filename: assets/KR6i0171_001.markers.yaml, hash: 'sha256:d119c3b447408b966f9e2558af8974f3f390d47a8addde16140ba2e0e83266b0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說樹提伽經
   type: juan
   level: 1
-hash: sha256:f63186ac3b64bc6f09a62736aa3b1384a79beb0f6684755fb144b1b19a5afa39
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d0b4011667423508b4b673ee9cc9a01b9a3655c4cf1f73e31f2fea8d113ece11
